@@ -1,4 +1,4 @@
-# Prompts used
+# Prompts used + Additional comments on how process went
 
 [Back Home](/)
 
@@ -7,14 +7,14 @@ Song/Suno: Country song about hunting an alien
 
 Image/Ideogram: Cowboy shooting alien with a shotgun
 
-Comments: I just wanted a funny starting thing.
+Comments: I just wanted a funny starting thing, so I thought of that stix season song.
 
 ## Crying over Spilled Milk
 Song/Suno: Write an alt rock song about how your angry at mom for spilling my milk, and use a line like "I wanted to eat cookies, but now they can't be mushy", also name the song "the use crying over spilt milk"
 
 Image/Ideogram: Emo guy really mad at spilled milk
 
-Comments: Thought it would be funny to create an angry teen alt rock song.
+Comments: Thought it would be funny to create an angry teen alt rock song where he's angry at his mom for spilling his milk.
 
 ## Autumn Glow
 Song/Suno: A beautiful song about autumn, include leaves, pumpkins, the color orange. Make the chorus catchy. Not a country song, more of pop.
