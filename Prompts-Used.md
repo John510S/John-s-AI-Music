@@ -11,3 +11,8 @@ Image/Ideogram: Cowboy shooting alien with a shotgun
 Song/Suno: Write an alt rock song about how your angry at mom for spilling my milk, and use a line like "I wanted to eat cookies, but now they can't be mushy", also name the song "the use crying over spilt milk"
 
 Image/Ideogram: Emo guy really mad at spilled milk
+
+## Autumn Glow
+Song/Suno: A beautiful song about autumn, include leaves, pumpkins, the color orange. Make the chorus catchy. Not a country song, more of pop.
+
+Image/Ideogram: Autumn Painting
