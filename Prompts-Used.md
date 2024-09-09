@@ -16,3 +16,8 @@ Image/Ideogram: Emo guy really mad at spilled milk
 Song/Suno: A beautiful song about autumn, include leaves, pumpkins, the color orange. Make the chorus catchy. Not a country song, more of pop.
 
 Image/Ideogram: Autumn Painting
+
+## Echoes of Ashes
+Song/Udio:
+
+Image/Ideogram:
