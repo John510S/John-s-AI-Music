@@ -1,5 +1,5 @@
 # Prompts used
 
 ## Honky Tonk Extraterrestrial
-Song: Country song about hunting an alien
-
+Song/Suno: Country song about hunting an alien
+Image/Ideogram: Cowboy shooting alien with a shotgun
