@@ -13,3 +13,6 @@ Poe was used for researching how to do certain code
 
 [Suno](https://suno.com/create) 
 Suno was used to create music
+
+[Ideogram](https://ideogram.ai/t/explore)
+Ideogram was used for images
