@@ -8,6 +8,8 @@ Used only this song
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
+<img src="" alt="Ashes" style="width:300px;"/>
+
 Song:[Echoes of Ashes](https://drive.google.com/file/d/1G23nBlPcVLhwfOgosnZPOuvZxS8LgBXC/view?usp=sharing)
 
 Lyrics:
