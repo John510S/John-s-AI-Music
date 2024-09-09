@@ -9,7 +9,7 @@ Suno was used to create music
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="" alt="Autumn" style="width:300px;"/>
+<img src="a-painting-of-a-serene-autumn-landscape-there-s-a--QAkmttmHTFSFj0sGcElt_Q-9lqkDxAIT1KOSIxueVrPag.jpeg" alt="Autumn" style="width:300px;"/>
 
 
 Song: [Autumn Glow](https://drive.google.com/file/d/1u41CJtYSWlUMul-5cQVqf5T_yZ_VZDR9/view?usp=sharing)
