@@ -21,7 +21,7 @@ Song/Suno: A beautiful song about autumn, include leaves, pumpkins, the color or
 
 Image/Ideogram: Autumn Painting
 
-Comments: I wanted some inspiration for possible songs I could create, I wasn't to happy with this but it will work.
+Comments: I wanted some inspiration for possible songs I could create for my own music endeavors, but I wasn't to happy with this but it will work for this experience.
 
 ## Echoes of Ashes
 Song/Udio: write a fast paces rock song called "the death of death metal". End the last verse with a sad piano part.
