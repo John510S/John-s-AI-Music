@@ -16,7 +16,7 @@ Song(used udio):[Echoes of Ashes](https://drive.google.com/file/d/1G23nBlPcVLhwf
 Poe was used for researching how to do certain code
 
 [Suno](https://suno.com/create) 
-Suno was used to create music
+Suno was used to create most of the music (except echoes of ashes)
 
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
