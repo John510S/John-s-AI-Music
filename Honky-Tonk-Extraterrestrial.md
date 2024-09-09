@@ -5,6 +5,9 @@
 Suno was used to create music
 
 
+[Ideogram](https://ideogram.ai/t/explore)
+Ideogram was used for images
+
 
 
 <img src="a-photo-of-a-cowboy-shooting-an-alien-with-a-shotg-zPX13c2nS22IWJKrqIkKHA-LRARCtYSRr212Z-qwJN6uw.jpeg" alt="Alien-Getting-Shot" style="width:300px;"/>
