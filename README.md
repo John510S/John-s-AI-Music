@@ -1,8 +1,12 @@
 # John-s-AI-Music
 Making an Album or list of songs
 
+## Music
 
-##Sources
+
+
+
+## Sources
 
 [Poe](https://poe.com/) 
 Poe was used for researching how to do certain code
