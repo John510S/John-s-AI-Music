@@ -7,7 +7,7 @@ Suno was used to create music
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="" alt="Sad about milk spill" style="width:300px;"/>
+<img src="a-cinematic-shot-of-an-emo-guy-with-dark-hair-and--ShRoEqOTQyGla_u5bczYfg-jCrHxz-rR8Oqj88cvorUfA.jpeg" alt="Sad about milk spill" style="width:300px;"/>
 
 Song: [Crying over spilled milk](https://drive.google.com/file/d/1b3jAwhzmkUN4RibDu0RmMBh40OoeyEBw/view?usp=sharing)
 
