@@ -16,3 +16,6 @@ Suno was used to create music
 
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
+
+[Udio](https://www.udio.com/home)
+Used this for the Echoes of Ashes song
