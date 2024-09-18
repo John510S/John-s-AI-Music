@@ -2,7 +2,7 @@
 
 [Back Home](/)
 
-#Test Album
+# Test Album
 
 Album cover(used Ideogram): Doggy holding a galaxy
 
