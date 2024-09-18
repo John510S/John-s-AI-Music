@@ -1,5 +1,7 @@
 #Test Album
 
+<img src="a-painting-of-a-serene-autumn-landscape-there-s-a--QAkmttmHTFSFj0sGcElt_Q-9lqkDxAIT1KOSIxueVrPag.jpeg" alt="Autumn" style="width:300px;"/>
+
 Song: [Honky Tonk Extraterrestrial](https://drive.google.com/file/d/1k843hZ9vtPoM9ccWjW0HjjKDQ6Vcp_Lf/view?usp=sharing) | [Page ->](Honky-Tonk-Extraterrestrial.md)
 
 Song: [Crying over spilled milk](https://drive.google.com/file/d/1b3jAwhzmkUN4RibDu0RmMBh40OoeyEBw/view?usp=sharing) | [Page ->](Crying-Over-Spilt-Milk.md)
