@@ -5,7 +5,7 @@ Making Albums that contain AI Music and AI art
 
 <img src="a-photo-of-a-dog-with-its-mouth-open-revealing-a-g-QOSAav7JSNKaqvgN60qdcQ-OkUzpDhFQhOJqPkvkfeOmQ.jpeg" alt="Autumn" style="width:300px;"/>
 
-[Test Album ->](Test-Album.md)
+[Test the Album ->](Test-Album.md)
 Songs:
 Honky Tonk Extraterrestrial,
 Crying Over Spilled Milk,
