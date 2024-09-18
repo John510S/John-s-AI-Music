@@ -1,7 +1,7 @@
 # John-s-AI-Music
 Making an Album or list of songs
 
-## Albums
+## Test Album
 
 <img src="a-photo-of-a-dog-with-its-mouth-open-revealing-a-g-QOSAav7JSNKaqvgN60qdcQ-OkUzpDhFQhOJqPkvkfeOmQ.jpeg" alt="Autumn" style="width:300px;"/>
 
