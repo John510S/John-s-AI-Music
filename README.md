@@ -4,9 +4,9 @@ Making an Album or list of songs
 ## Albums
 [Test Album ->](Test-Album.md)
 Songs:
-Honky Tonk Extraterrestrial
-Crying Over Spilled Milk
-Autumn Glow
+Honky Tonk Extraterrestrial,
+Crying Over Spilled Milk,
+Autumn Glow,
 Echoes of Ashes
 
 
