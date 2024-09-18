@@ -1,7 +1,7 @@
-# John-s-AI-Music
-Making an Album or list of songs
+# John-s-AI-Music-Albums
+Making Albums that contain AI Music and AI art
 
-## Test Album
+## Test the Album
 
 <img src="a-photo-of-a-dog-with-its-mouth-open-revealing-a-g-QOSAav7JSNKaqvgN60qdcQ-OkUzpDhFQhOJqPkvkfeOmQ.jpeg" alt="Autumn" style="width:300px;"/>
 
@@ -12,7 +12,7 @@ Crying Over Spilled Milk,
 Autumn Glow,
 Echoes of Ashes
 
-
+## Fighting Food
 
 ## Sources
 
