@@ -1,6 +1,6 @@
 #Test Album
 
-<img src="a-painting-of-a-serene-autumn-landscape-there-s-a--QAkmttmHTFSFj0sGcElt_Q-9lqkDxAIT1KOSIxueVrPag.jpeg" alt="Autumn" style="width:300px;"/>
+<img src="a-photo-of-a-dog-with-its-mouth-open-revealing-a-g-QOSAav7JSNKaqvgN60qdcQ-OkUzpDhFQhOJqPkvkfeOmQ.jpeg" alt="Autumn" style="width:300px;"/>
 
 Song: [Honky Tonk Extraterrestrial](https://drive.google.com/file/d/1k843hZ9vtPoM9ccWjW0HjjKDQ6Vcp_Lf/view?usp=sharing) | [Page ->](Honky-Tonk-Extraterrestrial.md)
 
