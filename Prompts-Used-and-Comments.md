@@ -2,6 +2,10 @@
 
 [Back Home](/)
 
+#Test Album
+
+Album cover(used Ideogram): Doggy holding a galaxy
+
 ## Honky Tonk Extraterrestrial
 Song/Suno: Country song about hunting an alien
 
