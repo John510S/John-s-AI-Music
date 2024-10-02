@@ -14,6 +14,8 @@ Echoes of Ashes
 
 ## Fighting Food
 
+[Fighting Food ->](Fighting-Food.md)
+
 ## Sources
 
 [Poe](https://poe.com/) 
