@@ -14,6 +14,8 @@ Echoes of Ashes
 
 ## Fighting Food
 
+<img src="a-photo-of-a-dog-with-its-mouth-open-revealing-a-g-QOSAav7JSNKaqvgN60qdcQ-OkUzpDhFQhOJqPkvkfeOmQ.jpeg" alt="Autumn" style="width:300px;"/>
+
 [Fighting Food ->](Fighting-Food.md)
 
 ## Sources
