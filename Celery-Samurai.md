@@ -16,37 +16,42 @@ Song: [Celery Samurai](https://drive.google.com/file/d/1O1Cm_Ea-Hf_zT3ZbJtrlIg13
 
 Lyrics:
 
-[Verse]
+Verse
 I've got a giant sword in my hand
 Cutting celery it feels so grand
 In the kitchen slicing oh so neat
 Making salad I can't be beat
 
-[Verse 2]
+
+Verse 2
 Swish and slice vegetables fall
 Celery chopping I'll take them all
 Feel the rhythm feel the beat
 Crunchy green and oh so sweet
 
-[Chorus]
+
+Chorus
 Celery samurai here I stand
 With my giant sword slicing grand
 Feel the music join my band
 Chopping veggies across the land
 
-[Verse 3]
+
+Verse 3
 No need for fancy tools today
 Just my giant sword let it sway
 Hear the crunch as I chop away
 Healthy munchin' day by day
 
-[Bridge]
+
+Bridge
 Sword in hand and I'm ready to groove
 In the kitchen makin' moves
 Chop chop chop hear the song
 Celery beats all day long
 
-[Verse 4]
+
+Verse 4
 From the garden to my board
 Cutting green with my mighty sword
 Feel the rhythm feel the sound
