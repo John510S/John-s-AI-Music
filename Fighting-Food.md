@@ -8,7 +8,7 @@ Song: []() | [Page ->]()
 
 Song: []() | [Page ->]()
 
-Song(used udio):[Echoes of Ashes](https://drive.google.com/file/d/1G23nBlPcVLhwfOgosnZPOuvZxS8LgBXC/view?usp=sharing) | [Page ->](Echoes-of-Ashes.md)
+Song:[]() | [Page ->]()
 
 
 ## Sources
@@ -23,6 +23,6 @@ Suno was used to create most of the music (except echoes of ashes)
 Ideogram was used for images
 
 [Udio](https://www.udio.com/home)
-Used this for the Echoes of Ashes song
+Used this for music
 
 [Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
