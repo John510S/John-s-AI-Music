@@ -8,7 +8,7 @@ Song: [Punching Apples in the Face](https://drive.google.com/file/d/1SauveFRGqGu
 
 Song: [Celery Samurai](https://drive.google.com/file/d/1O1Cm_Ea-Hf_zT3ZbJtrlIg13cR0qlOER/view?usp=sharing) | [Page ->](Celery-Samurai.md)
 
-Song: []() | [Page ->]()
+Song: [Darn You Sugar](https://drive.google.com/file/d/1sExrOm0uhIToD0VqQR0y_otNSeAWQCMK/view?usp=drive_link) | [Page ->](Darn-You-Sugar.md)
 
 Song:[The Passing of Food](https://drive.google.com/file/d/1HebAxi6O5UaeRJ6XgtAcFBkFmNZziDjQ/view?usp=drive_link) | [Page ->](The-Passing-of-Food.md)
 
