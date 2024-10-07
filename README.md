@@ -18,7 +18,7 @@ Echoes of Ashes
 
 [Fighting Food ->](Fighting-Food.md)
 Songs:
-Punching Apples in the Face, Celery Samurai, ,The Passing of Food
+Punching Apples in the Face, Celery Samurai, Darn You Sugar,The Passing of Food
 
 ## Sources
 
