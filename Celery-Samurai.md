@@ -9,7 +9,7 @@ Suno was used to create music
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="a-cinematic-shot-of-an-emo-guy-with-dark-hair-and--ShRoEqOTQyGla_u5bczYfg-jCrHxz-rR8Oqj88cvorUfA.jpeg" alt="Sad about milk spill" style="width:300px;"/>
+<img src="a-video-of-a-woman-cutting-celery-with-a-sword-the-19zHp9UIQE2LIzoGFfCRSQ-s5JwJ5psSMOmD9cEx-EHAA.jpeg" alt="Cutting-Celery" style="width:300px;"/>
 
 Song: [Celery Samurai](https://drive.google.com/file/d/1O1Cm_Ea-Hf_zT3ZbJtrlIg13cR0qlOER/view?usp=drive_link)
 
