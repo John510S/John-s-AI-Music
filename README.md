@@ -17,7 +17,6 @@ Echoes of Ashes
 <img src="a-photo-of-a-large-apple-with-a-face-the-apple-is--FQTk5kLOQJa2roUBqJ220Q-jOhvfelwQdCeTa01Uc7WWg.jpeg" alt="Autumn" style="width:300px;"/>
 
 [Fighting Food ->](Fighting-Food.md)
-[Celery Samurai ->](Celery-Samurai.md)
 Songs:
 Punching Apples in the Face, Celery Samurai
 
