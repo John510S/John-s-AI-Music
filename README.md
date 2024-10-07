@@ -32,6 +32,6 @@ Suno was used to create most of the music (except echoes of ashes)
 Ideogram was used for images
 
 [Udio](https://www.udio.com/home)
-Used this for the Echoes of Ashes song
+Alternate for creating songs
 
 [Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
