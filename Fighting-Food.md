@@ -4,7 +4,7 @@
 
 Song: [Punching Apples in the Face](https://drive.google.com/file/d/1SauveFRGqGu4ztQtBmU7wh2eZgAvTjRa/view?usp=sharing) | [Page ->](Punching-Apples-In-The-face.md)
 
-Song: []() | [Page ->]()
+Song: [Celery Samurai](https://drive.google.com/file/d/1O1Cm_Ea-Hf_zT3ZbJtrlIg13cR0qlOER/view?usp=sharing) | [Page ->]()
 
 Song: []() | [Page ->]()
 
