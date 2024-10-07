@@ -8,7 +8,7 @@ Used only this song
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="a-photo-of-a-red-apple-with-a-face-the-apple-is-be-vCjUE5bkTuK2Iiprj-REMw-jOhvfelwQdCeTa01Uc7WWg.jpeg" alt="Darn Sugar" style="width:300px;"/>
+<img src="a-photo-of-an-emo-guy-yelling-at-a-bag-of-sugar-he-r8_JXvzWRgitOI680eIaCg-eXs0iNaSReq04QQW9v4ITQ.jpeg" style="width:300px;"/>
 
 Song:[Darn You Sugar](https://drive.google.com/file/d/1sExrOm0uhIToD0VqQR0y_otNSeAWQCMK/view?usp=sharing)
 
