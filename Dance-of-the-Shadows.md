@@ -9,7 +9,7 @@ Suno was used to create music
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="" alt="Dancing Shadows" style="width:300px;"/>
+<img src="a-cinematic-shot-of-a-dark-room-with-dancing-shado-0XE_L901S-6YGTuS2kT0OQ-KHCzDVYhSZGFQIcPhYDrbA.jpeg" alt="Dancing Shadows" style="width:300px;"/>
 
 Song: [Dance of the Shadows](https://drive.google.com/file/d/1mqkFTtvDXx0DKOFJBtBXyY8HOqg2GRog/view?usp=drive_link)
 
