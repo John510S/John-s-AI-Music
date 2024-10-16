@@ -8,7 +8,7 @@ Used only this song
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="" alt="Pumpkin" style="width:300px;"/>
+<img src="a-spooky-pumpkin-with-a-face-is-traveling-at-night-0LDRoZKgSfS8ztGtlYcFhA-AxMLctziSMGZQ_Yz36aSOw.jpeg" alt="Pumpkin" style="width:300px;"/>
 
 Song:[The Traveling Pumpkin](https://drive.google.com/file/d/1Apvn7q-HrULpkKKkxR3gTiku2VQv3SmI/view?usp=drive_link)
 
