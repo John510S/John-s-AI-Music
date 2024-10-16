@@ -22,7 +22,7 @@ Punching Apples in the Face, Celery Samurai, Darn You Sugar,The Passing of Food
 
 ## Halloween Dream
 
-<img src="" alt="Halloween Dream" style="width:300px;"/>
+<img src="a-realistic-looking-cartoon-of-a-person-having-a-n-E4hmczmBSgmFW_KxBe3TLg-drLngWcdT5m3OmroUFCHVQ.jpeg" alt="Halloween Dream" style="width:300px;"/>
 
 [Halloween Dream ->](Halloween-Dream.md)
 
