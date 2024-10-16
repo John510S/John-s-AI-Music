@@ -26,7 +26,7 @@ Punching Apples in the Face, Celery Samurai, Darn You Sugar,The Passing of Food
 
 [Halloween Dream ->](Halloween-Dream.md)
 
-Songs:
+Songs: The Traveling Pumpkin, Dancing of the Shadows
 
 ## Sources
 
