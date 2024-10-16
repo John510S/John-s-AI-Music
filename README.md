@@ -22,7 +22,9 @@ Punching Apples in the Face, Celery Samurai, Darn You Sugar,The Passing of Food
 
 ## Halloween Dream
 
+<img src="" alt="Halloween Dream" style="width:300px;"/>
 
+[Halloween Dream ->](Halloween-Dream.md)
 
 Songs:
 
