@@ -4,7 +4,7 @@
 
 <img src="________" alt="Scary" style="width:300px;"/>
 
-Song: [Traveling Pumpkin]() | [Page ->](Traveling Pumpkin)
+Song: [The Traveling Pumpkin]() | [Page ->](The-Traveling-Pumpkin.md)
 
 Song: [Dance of the Shadows]() | [Page ->](Dance of the Shadows)
 
