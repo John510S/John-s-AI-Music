@@ -6,7 +6,7 @@
 
 Song: [The Traveling Pumpkin](https://drive.google.com/file/d/1Apvn7q-HrULpkKKkxR3gTiku2VQv3SmI/view?usp=drive_link) | [Page ->](The-Traveling-Pumpkin.md)
 
-Song: [Dance of the Shadows](https://drive.google.com/file/d/1mqkFTtvDXx0DKOFJBtBXyY8HOqg2GRog/view?usp=sharing) | [Page ->]()
+Song: [Dance of the Shadows](https://drive.google.com/file/d/1mqkFTtvDXx0DKOFJBtBXyY8HOqg2GRog/view?usp=sharing) | [Page ->](Dance-of-the-Shadows.md)
 
 Song: []() | [Page ->]()
 
