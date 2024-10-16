@@ -2,7 +2,7 @@
 
 [Back Home](/)
 
-<img src="________" alt="Scary" style="width:300px;"/>
+<img src="a-realistic-looking-cartoon-of-a-person-having-a-n-E4hmczmBSgmFW_KxBe3TLg-drLngWcdT5m3OmroUFCHVQ.jpeg" alt="Scary" style="width:300px;"/>
 
 Song: [The Traveling Pumpkin](https://drive.google.com/file/d/1Apvn7q-HrULpkKKkxR3gTiku2VQv3SmI/view?usp=drive_link) | [Page ->](The-Traveling-Pumpkin.md)
 
