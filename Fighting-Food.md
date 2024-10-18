@@ -13,6 +13,13 @@ Song: [Darn You Sugar](https://drive.google.com/file/d/1sExrOm0uhIToD0VqQR0y_otN
 Song:[The Passing of Food](https://drive.google.com/file/d/1HebAxi6O5UaeRJ6XgtAcFBkFmNZziDjQ/view?usp=drive_link) | [Page ->](The-Passing-of-Food.md)
 
 
+## Prompts and Comments
+
+(What went into creating each song)
+
+[Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
+
+
 ## Sources
 
 [Poe](https://poe.com/) 
