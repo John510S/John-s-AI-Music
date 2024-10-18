@@ -97,6 +97,14 @@ Image/Ideogram: Scary dancing shadows
 
 Comments: This song I thought was going to come off more scary then it did, but it's fine, I like it for the most part. The image was weird to get again, everytime I put dancing and shadows into the prompt I would get a picture of the shadows of a guy and a girl dancing, and it really didn't give off a halloween vibe at all. So i had to put scary in there to get something, but I was afraid the ai would make it to horrifying. But even when I put the prompt scary in there more pictures of not scary shadows dancing. So the image I used was the one image that fit the halloween vibe and I was still let down by none of them dancing. But it will suffice.
 
+## Monsters in the Night
+
+Song/Suno: Song about monster creeping in the night
+
+Image/Ideogram: Scary monsters creeping at night
+
+Comments: The image was not the best but it was hard to get a better one, I probably could have been more specific with the type of monsters I wanted in the frame but it works I guess. The best part about this song is the instrumental, the piano sounds so good in my opinion, I head it and I thought that even if the vocals sucked I was still going to use this track. The vocals were fine and sounded like a Halloween song so it was perfect.
+
 ## Who's the Host?
 
 Song/Udio: Scary song someone who was invited to a halloween party but no one knows who's the host
