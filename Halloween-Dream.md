@@ -8,7 +8,7 @@ Song: [The Traveling Pumpkin](https://drive.google.com/file/d/1Apvn7q-HrULpkKKkx
 
 Song: [Dance of the Shadows](https://drive.google.com/file/d/1mqkFTtvDXx0DKOFJBtBXyY8HOqg2GRog/view?usp=sharing) | [Page ->](Dance-of-the-Shadows.md)
 
-Song: []() | [Page ->]()
+Song: [Monsters in the Night](https://drive.google.com/file/d/1SGqms5xLoYtsqf3Jx4TnY6y8Fo-6l_bK/view?usp=sharing) | [Page ->](Monsters-in-the-Night.md)
 
 Song:[]() | [Page ->]()
 
