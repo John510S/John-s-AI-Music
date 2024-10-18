@@ -13,6 +13,13 @@ Song: [Monsters in the Night](https://drive.google.com/file/d/1SGqms5xLoYtsqf3Jx
 Song:[Who's the Host](https://drive.google.com/file/d/1k7ivM8JUdxGmrDJJbnSx1HHedpGlgw0I/view?usp=drive_link) | [Page ->](Who's-the-Host.md)
 
 
+## Prompts and Comments
+
+(What went into creating each song)
+
+[Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
+
+
 ## Sources
 
 [Poe](https://poe.com/) 
