@@ -13,6 +13,13 @@ Song: [Autumn Glow](https://drive.google.com/file/d/1u41CJtYSWlUMul-5cQVqf5T_yZ_
 Song(used udio):[Echoes of Ashes](https://drive.google.com/file/d/1G23nBlPcVLhwfOgosnZPOuvZxS8LgBXC/view?usp=sharing) | [Page ->](Echoes-of-Ashes.md)
 
 
+## Prompts and Comments
+
+(What went into creating each song)
+
+[Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
+
+
 ## Sources
 
 [Poe](https://poe.com/) 
