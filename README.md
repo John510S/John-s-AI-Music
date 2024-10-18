@@ -28,6 +28,12 @@ Punching Apples in the Face, Celery Samurai, Darn You Sugar,The Passing of Food
 
 Songs: The Traveling Pumpkin, Dancing of the Shadows, Monsters in the Night, Who's the Host?
 
+## Prompts and Comments
+
+(What went into creating each song)
+
+[Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
+
 ## Sources
 
 [Poe](https://poe.com/) 
@@ -42,4 +48,3 @@ Ideogram was used for images
 [Udio](https://www.udio.com/home)
 Alternate for creating songs
 
-[Prompts and Comments Page ->](Prompts-Used-and-Comments.md)
