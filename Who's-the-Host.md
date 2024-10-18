@@ -8,7 +8,7 @@ For creating the music
 [Ideogram](https://ideogram.ai/t/explore)
 Ideogram was used for images
 
-<img src="" alt="Host" style="width:300px;"/>
+<img src="a-painting-of-a-group-of-people-dressed-in-formal--spuqOMUySIe1wn8kBAh2UQ-cJiyttpbQ_CKOd9gjZdUZg.jpeg" alt="Host" style="width:300px;"/>
 
 Song:[Who's the Host?](https://drive.google.com/file/d/1k7ivM8JUdxGmrDJJbnSx1HHedpGlgw0I/view?usp=drive_link)
 
